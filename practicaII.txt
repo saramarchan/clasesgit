@@ -2,5 +2,7 @@ cambio Cambio3
 cambio1
 cambio2
 cambio3
+master
+Hola, linda foto de perfil, espero te puedas colocar un gato de perfil.
 cambio5 hola! cambio clase4
-otra cosa
+master
